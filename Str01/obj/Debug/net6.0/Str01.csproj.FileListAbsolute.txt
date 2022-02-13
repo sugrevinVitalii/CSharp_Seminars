@@ -1,0 +1,15 @@
+F:\C_sharp\Seminar_zadachi\Str01\bin\Debug\net6.0\Str01.exe
+F:\C_sharp\Seminar_zadachi\Str01\bin\Debug\net6.0\Str01.deps.json
+F:\C_sharp\Seminar_zadachi\Str01\bin\Debug\net6.0\Str01.runtimeconfig.json
+F:\C_sharp\Seminar_zadachi\Str01\bin\Debug\net6.0\Str01.dll
+F:\C_sharp\Seminar_zadachi\Str01\bin\Debug\net6.0\ref\Str01.dll
+F:\C_sharp\Seminar_zadachi\Str01\bin\Debug\net6.0\Str01.pdb
+F:\C_sharp\Seminar_zadachi\Str01\obj\Debug\net6.0\Str01.csproj.AssemblyReference.cache
+F:\C_sharp\Seminar_zadachi\Str01\obj\Debug\net6.0\Str01.GeneratedMSBuildEditorConfig.editorconfig
+F:\C_sharp\Seminar_zadachi\Str01\obj\Debug\net6.0\Str01.AssemblyInfoInputs.cache
+F:\C_sharp\Seminar_zadachi\Str01\obj\Debug\net6.0\Str01.AssemblyInfo.cs
+F:\C_sharp\Seminar_zadachi\Str01\obj\Debug\net6.0\Str01.csproj.CoreCompileInputs.cache
+F:\C_sharp\Seminar_zadachi\Str01\obj\Debug\net6.0\Str01.dll
+F:\C_sharp\Seminar_zadachi\Str01\obj\Debug\net6.0\ref\Str01.dll
+F:\C_sharp\Seminar_zadachi\Str01\obj\Debug\net6.0\Str01.pdb
+F:\C_sharp\Seminar_zadachi\Str01\obj\Debug\net6.0\Str01.genruntimeconfig.cache
