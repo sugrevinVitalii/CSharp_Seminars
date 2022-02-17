@@ -1,0 +1,15 @@
+F:\C_sharp\Seminar_zadachi\36\obj\Debug\net6.0\36.csproj.AssemblyReference.cache
+F:\C_sharp\Seminar_zadachi\36\obj\Debug\net6.0\36.GeneratedMSBuildEditorConfig.editorconfig
+F:\C_sharp\Seminar_zadachi\36\obj\Debug\net6.0\36.AssemblyInfoInputs.cache
+F:\C_sharp\Seminar_zadachi\36\obj\Debug\net6.0\36.AssemblyInfo.cs
+F:\C_sharp\Seminar_zadachi\36\obj\Debug\net6.0\36.csproj.CoreCompileInputs.cache
+F:\C_sharp\Seminar_zadachi\36\bin\Debug\net6.0\36.exe
+F:\C_sharp\Seminar_zadachi\36\bin\Debug\net6.0\36.deps.json
+F:\C_sharp\Seminar_zadachi\36\bin\Debug\net6.0\36.runtimeconfig.json
+F:\C_sharp\Seminar_zadachi\36\bin\Debug\net6.0\36.dll
+F:\C_sharp\Seminar_zadachi\36\bin\Debug\net6.0\ref\36.dll
+F:\C_sharp\Seminar_zadachi\36\bin\Debug\net6.0\36.pdb
+F:\C_sharp\Seminar_zadachi\36\obj\Debug\net6.0\36.dll
+F:\C_sharp\Seminar_zadachi\36\obj\Debug\net6.0\ref\36.dll
+F:\C_sharp\Seminar_zadachi\36\obj\Debug\net6.0\36.pdb
+F:\C_sharp\Seminar_zadachi\36\obj\Debug\net6.0\36.genruntimeconfig.cache
