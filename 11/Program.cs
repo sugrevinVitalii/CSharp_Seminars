@@ -1,4 +1,5 @@
-﻿// Показать последнюю цифру трёхзначного числа
+﻿// Показать вторую цифру трёхзначного числа
+
 
 int a = 0;
 string s = string.Empty;
@@ -10,7 +11,7 @@ a = s.Length;
 switch (a)
 {
     case 3:
-        Console.WriteLine("Последняя цифра трехзначного числа " + s[s.Length - 1]);
+        Console.WriteLine("Вторая цифра трехзначного числа " + s[s.Length - 2]);
         break;
     default:
         Console.WriteLine("Число не трехзначное");
