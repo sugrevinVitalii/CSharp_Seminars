@@ -4,8 +4,7 @@ int b = 22;
 int c = 14;
 int max = a;
 
-if (a >= max) max = a;
-if (b >= max) max = b;
-if (c >= max) max = c;
+if (b > max) max = b;
+if (c > max) max = c;
    
-System.Console.WriteLine($"Максимальное число:{max}");
+System.Console.WriteLine($"Из чисел: {a}, {b} и {c} максимальное: {max}");
