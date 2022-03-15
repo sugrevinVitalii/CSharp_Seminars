@@ -6,5 +6,5 @@ System.Console.WriteLine("Введите число дня недели от 1 �
 s = Console.ReadLine();
 d = Convert.ToInt32(s);
 
-if(d == 6 | d ==7) System.Console.WriteLine($"Номер дня недели {d} является выходным");
-else System.Console.WriteLine($"Номер дня недели {d} не является выходным");
+if(d == 6 | d ==7) System.Console.WriteLine($"Номер {d} является выходным");
+else System.Console.WriteLine($"Номер {d} не является выходным");
