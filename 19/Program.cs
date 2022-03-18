@@ -11,9 +11,9 @@ System.Console.WriteLine("Введите не нулевое значение Y 
 s = Console.ReadLine();
 y = Convert.ToInt32(s);
 
-if(x > 0 && y > 0) System.Console.WriteLine($"Точка по координатам Х={x} Y={y} находится в 1-ой четверти плоскости");
-if(x > 0 && y < 0) System.Console.WriteLine($"Точка по координатам Х={x} Y={y} находится в 4-ой четверти плоскости");
-if(x < 0 && y < 0) System.Console.WriteLine($"Точка по координатам Х={x} Y={y} находится в 3-ей четверти плоскости");
-if(x < 0 && y > 0) System.Console.WriteLine($"Точка по координатам Х={x} Y={y} находится во 2-ой четверти плоскости");
+if(x > 0 && y > 0) System.Console.WriteLine($"Точка (Х={x} Y={y}) - I четверть плоскости.");
+if(x > 0 && y < 0) System.Console.WriteLine($"Точка (Х={x} Y={y}) - VI четверть плоскости.");
+if(x < 0 && y < 0) System.Console.WriteLine($"Точка (Х={x} Y={y}) - III четверть плоскости.");
+if(x < 0 && y > 0) System.Console.WriteLine($"Точка (Х={x} Y={y}) - II четверть плоскости.");
 if(x == 0) System.Console.WriteLine("Неверное значение X = 0! ");
 if(y == 0) System.Console.WriteLine("Неверное значение Y = 0! ");
